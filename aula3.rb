@@ -7,4 +7,4 @@ n2 = gets.chomp
 print "Qual sua idade?"
 idade = gets.chomp
 
-print "Olá #{n1} #{n2} você tem #{idade} anos"
+puts "Olá #{n1} #{n2} você tem #{idade} anos"
